@@ -1,13 +1,13 @@
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ShanksRui&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanksRui&layout=compact&langs_count=16&theme=shadow_blue"/>
+  <img  height="95em" src="https://github-readme-stats.vercel.app/api?username=ShanksRui&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img align="right" height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanksRui&layout=compact&langs_count=12&theme=shadow_blue"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="AjA6.gif">
     <h1 align="center">My technologies<3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
