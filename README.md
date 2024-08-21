@@ -1,3 +1,5 @@
+
+
 <div>
   
   <img  height="111em" src="https://github-readme-stats.vercel.app/api?username=ShanksRui&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
@@ -19,20 +21,11 @@
    </div>
   
   <h1 align="center">social media</h1>
-    <a href = "mailto: work.midoriya.7140@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-
   
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-vianna-931b9a286/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:midoriya.7140@gmail.com)
+  
+
+
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
  
