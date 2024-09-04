@@ -1,7 +1,7 @@
 
 
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?ShanksRui=tws
   <img  align height="160em" src="https://github-readme-stats.vercel.app/api?username=ShanksRui&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanksRui&layout=compact&langs_count=16&theme=shadow_blue"/>
 </div>
