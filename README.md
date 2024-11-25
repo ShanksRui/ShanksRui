@@ -1,7 +1,8 @@
 
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,0000ff&height=120&section=header"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&reversal=false&fontAlign=46&descAlign=36&descAlignY=54&fontSize=0&animation=blink&fontColor=f8f&
+
   <img  align height="160em" src="https://github-readme-stats.vercel.app/api?username=ShanksRui&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanksRui&layout=compact&langs_count=16&theme=shadow_blue"/>
 </div>
@@ -23,6 +24,7 @@
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-vianna-931b9a286/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:midoriya.7140@gmail.com)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,0000ff&height=120&section=footer"/>
+
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,0000ff&height=120&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&reversal=false&fontAlign=46&descAlign=36&descAlignY=54&fontSize=0&animation=blink&fontColor=f8f&strokeWidth=-1)
 
 
