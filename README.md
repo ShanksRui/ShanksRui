@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0eeadf&height=120&section=header"/>
 </div>
 
-# 👋 Olá, eu sou o Luiz!
+#  Olá, eu sou o Luiz!
 
 Sou um desenvolvedor backend em evolução, porém ja iniciei meus estudos em fornt para futuramente exercer o cargo de fullStack. Bom, atualmente tenho me dedicado ao  **Java**, **Spring**, **MongoDB**, **SQL** **HTML** **CSS**, boas práticas e arquitetura limpa.  
 Meu foco é construir APIs escaláveis, bem estruturadas e de alta performance.  
@@ -10,7 +10,7 @@ No momento, estudo diariamente para conseguir minha **primeira vaga como Desenvo
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 -  Estudando **Java + Spring Framework + HTML/CSS**   
 -  Atualmente aprofundando: **JPA, MongoDB, Docker, Swagger e APIs REST**  
@@ -30,7 +30,7 @@ No momento, estudo diariamente para conseguir minha **primeira vaga como Desenvo
 
 ---
 
-# 🛠️ My Technologies
+#  My Technologies
 
 <div align="center">
 
