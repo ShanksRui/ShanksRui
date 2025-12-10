@@ -46,9 +46,6 @@ No momento, estudo diariamente para conseguir minha **primeira vaga como Desenvo
   <!-- PostgreSQL -->
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 
-  <!-- JDBC -->
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-
   <!-- Windows -->
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
 
