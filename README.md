@@ -17,7 +17,7 @@ No momento, estudo diariamente para conseguir minha **primeira vaga como Desenvo
 -  Objetivo: **me tornar Backend Java e conseguir meu primeiro emprego na área**  
 -  Sonho: **morar na Suiça em 6 anos**  
 -  Foco: aplicar boas práticas, código limpo e escaláveis
-- ☕ Vivo de café (**Som assim pra aguentar os Bugs** )  
+- ☕ Vivo de café (**Só assim para aguentar os Bugs** )  
 
 ---
 
