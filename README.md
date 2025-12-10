@@ -4,7 +4,7 @@
 
 #  Olá, eu sou o Luiz!
 
-Sou um desenvolvedor backend em evolução, porém ja iniciei meus estudos em fornt para futuramente exercer o cargo de fullStack. Bom, atualmente tenho me dedicado ao  **Java**, **Spring**, **MongoDB**, **SQL** **HTML** **CSS**, boas práticas e arquitetura limpa.  
+Sou um desenvolvedor backend em evolução, porém ja iniciei meus estudos em fornt para futuramente exercer o cargo de fullStack. Bom, atualmente tenho me dedicado ao  **Java**, **Spring**, **MongoDB**, **SQL**, **HTML**/**CSS**, boas práticas e arquitetura limpa.  
 Meu foco é construir APIs escaláveis, bem estruturadas e de alta performance.  
 No momento, estudo diariamente para conseguir minha **primeira vaga como Desenvolvedor Backend**.
 
