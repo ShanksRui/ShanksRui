@@ -25,7 +25,7 @@ No momento, estudo diariamente para conseguir minha **primeira vaga como Desenvo
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShanksRui&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanksRui&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanksRui&layout=compact&theme=gotham)
 
 ---
 
